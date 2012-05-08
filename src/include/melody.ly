@@ -11,8 +11,8 @@ melodyWithChordSymbols =
 				\chordmode {
 			        \huge
 			
-					c2 | c | c | c
-					c2 | c | f | c |
+					c2 | s | s | s
+					c2 | s | f | c |
 					c2 | f4 c4  | f2 | c2 |
 					c2 | g2 | c2 | % (crooked/missing bar)				
 			
